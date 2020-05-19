@@ -1,0 +1,36 @@
+body {
+  width: 250px;
+  background: #121212;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  padding: 0.35em 1.2em;
+  border: 0.1em solid #ffffff;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.12em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: center;
+  transition: all 0.6s;
+}
+
+button {
+  color: #503939;
+  background-color: #d46b6b;
+}
+
+@media all and (max-width: 30em) {
+  button {
+    display: block;
+    margin: 0.4em auto;
+  }
+}

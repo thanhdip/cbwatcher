@@ -1,0 +1,7 @@
+{
+  "name": "cbwatcher",
+  "description": "Watches cliboard and posts changes",
+  "path": "P:\\Workplaces\\webextensions-examples-master\\native-messaging\\app\\cbwatcher.bat",
+  "type": "stdio",
+  "allowed_extensions": ["cbpost@example.com"]
+}
